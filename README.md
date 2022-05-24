@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MAT-375
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning ML and Frontend Dev
-- 💞️ I’m looking to collaborate on [N/A]
+- 🌱 I’m currently working on ML and python development
+- 💞️ I’m looking to collaborate on beginner-level ML projects
 - 📫 How to reach me -> mat375@protonmail.com
 
 <!---
